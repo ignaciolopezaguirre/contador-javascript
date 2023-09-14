@@ -13,7 +13,7 @@
   min-height: 100vh;
   flex-direction: column;
   gap: 20px;
-  background-color: #236495;
+  background: linear-gradient(to right, #6441a5 , #2a0845);
 }
 
 #resultado,
@@ -37,10 +37,9 @@ h3 {
   font-size: 1em;
   font-weight: 500;
   color: #236495;
-  
 }
 
-.buton:hover{
-    cursor: pointer;
+.buton:hover {
+  cursor: pointer;
   background-color: #f89c3c;
 }
